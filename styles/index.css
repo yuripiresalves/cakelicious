@@ -1,0 +1,99 @@
+body .background {
+    background-color: #feecd6;
+    padding-left: 160px;
+    display: flex;
+    min-height: 100vh;
+}
+
+body .background .bg2-container {
+    background-color: rgba(51, 143, 142, 0.15);
+    width: 80%;
+    /* height: 100%; */
+    box-shadow: 0px 2px 50px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+}
+
+body .background .bg2-container header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+
+body .background .bg2-container header h1 {
+    font-family: "Cookie";
+    font-size: 150px;
+    font-weight: normal;
+    line-height: 166px;
+    text-align: center;
+    margin-bottom: -30px;
+    color: #d02746;
+    text-shadow: -5px 3px 0px #fbad86;
+}
+
+body .background .bg2-container header h2 {
+    font-family: "Cookie";
+    font-size: 50px;
+    font-weight: normal;
+    line-height: 55px;
+    text-align: center;
+    color: #996f6f;
+    text-shadow: -3px 2px 0px #fbad86;
+}
+
+body .background .bg2-container .description {
+    background-color: rgba(51, 143, 142, 0.8);
+    border-radius: 37px;
+    font-family: Lobster Two;
+    font-weight: normal;
+    font-size: 22px;
+    display: flex;
+    line-height: 25px;
+    color: #feecd6;
+    padding: 25px 46px;
+    margin-top: 20px;
+    width: 80%;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.25);
+    text-align: center;
+}
+
+body .background .bg2-container .carousel-wrapper {
+    
+}
+
+body .background .bg2-container .carousel-wrapper .carousel-items-posts {
+
+}
+
+body .background .bg2-container .carousel-wrapper .carousel-items-posts .carousel-item {
+    background-color: #4b0a34;
+    border-radius: 15px;
+    display: inline-flex;
+    box-shadow: 5px 8px #fbad86;
+    max-width: 750px;
+    padding: 20px 50px;
+    margin: 8px 120px;
+}
+
+body .background .bg2-container .carousel-wrapper .carousel-items-posts .carousel-item img {
+    width: 230px;
+    height: 310px;
+    border-radius: 4px;
+}
+
+body .background .bg2-container .carousel-wrapper .carousel-items-posts .carousel-item .text h2 {
+    color: #feecd6;
+    font-family: Lobster Two;
+    font-size: 50px;
+}
+
+body .background .bg2-container .carousel-wrapper .carousel-items-posts .carousel-item .text p {
+    color: #fbad86;
+    font-family: Lobster Two;
+    font-size: 25px;
+    text-align: justify;
+
+}
