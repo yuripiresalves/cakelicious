@@ -5,7 +5,7 @@
 <br>
 </h1>
 
-<p align="center">Projeto desenvolvido durante um workshop de HTML e CSS ofertado pelo <a href="https://www.din.uem.br/pet">PET INFORMÁTICA</a> da Universidade Estadual de Maringá.</p>
+<p align="center">Projeto desenvolvido durante um workshop de HTML e CSS ofertado pelo <a target="_blank" href="https://www.din.uem.br/pet">PET INFORMÁTICA</a> da Universidade Estadual de Maringá.</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
