@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/yuripiresalves">
-    <img src="https://img.shields.io/badge/feito%20por-Yuri%20Alves-red" alt="License MIT">
+    <img src="https://img.shields.io/badge/made%20by-Yuri%20Alves-red" alt="License MIT">
   </a>
 
   <a href="https://opensource.org/licenses/MIT">
@@ -30,6 +30,7 @@
 -  **HTML**
 -  **CSS** 
 -  **JavaScript** 
+-  **Slick**
 
 
 ## 📝 License
