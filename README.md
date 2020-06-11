@@ -19,7 +19,7 @@
 
 [//]: # (Add your gifs/images here:)
 <div align="center">
-  <img src="https://i.ibb.co/Ns5nWny/web.gif" alt="web-demo" height="425">
+  <img src="https://i.ibb.co/47bLCPn/download.png" alt="web-demo" height="425">
 </div>
 
 <hr />
