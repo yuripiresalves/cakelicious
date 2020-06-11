@@ -98,6 +98,22 @@
     <script src="../js/jquery-3.5.1.min.js"></script>
     <script src="../js/slick-1.8.1/slick/slick.min.js"></script>
 
+    <script>
+        const slider = $(".carousel-items-posts")
+
+        slider.slick({
+            infinite: true,
+            slideToShow: 1,
+            slideToScroll: 1,
+            centerMode: true,
+            variableWidth: true,
+            arrows: true,
+            prevArrow: "",
+            nextArrow: ""
+
+        })
+    </script>
+
     
 </body>
 </html>

@@ -6,6 +6,7 @@
     <link rel="stylesheet" href="styles/global.css">
     <link rel="stylesheet" href="styles/menu.css">
     <link rel="stylesheet" href="styles/contact.css">
+    <link rel="stylesheet" href="../js/slick-1.8.1/slick/slick.css"/> 
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
    
@@ -97,6 +98,22 @@
 
     <script src="js/jquery-3.5.1.min.js"></script>
     <script src="js/slick-1.8.1/slick/slick.min.js"></script>
+
+    <script>
+        const slider = $(".carousel-items-posts")
+
+        slider.slick({
+            infinite: true,
+            slidesToShow: 1,
+            slidesToScroll: 1,
+            centerMode: true,
+            variableWidth: true,
+            arrows: true,
+            prevArrow: "<div class='arrow-prev'></div>",
+            nextArrow: "<div class='arrow-next'></div>"
+
+        })
+    </script>
 
     
 </body>

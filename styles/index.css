@@ -61,10 +61,34 @@ body .background .bg2-container .description {
 }
 
 body .background .bg2-container .carousel-wrapper {
-    
+    width: 100%;
+    margin: 20px auto;
+}
+
+body .background .bg2-container .carousel-wrapper .carousel-items-posts .arrow-prev,
+body .background .bg2-container .carousel-wrapper .carousel-items-posts .arrow-next {
+    border: solid #834343;
+    border-width: 0 3px 3px 0;
+    top: 50%;
+    padding: 12px;
+    position: absolute;
+    display: inline-block;
+}
+
+body .background .bg2-container .carousel-wrapper .arrow-prev {
+    transform: rotate(135deg);
+    left: -3%;
+}
+
+body .background .bg2-container .carousel-wrapper .arrow-next {
+    transform: rotate(-45deg);
+    right: -3%;
 }
 
 body .background .bg2-container .carousel-wrapper .carousel-items-posts {
+    width: 780px;
+    margin: auto;
+    position: relative;
 
 }
 
@@ -82,6 +106,10 @@ body .background .bg2-container .carousel-wrapper .carousel-items-posts .carouse
     width: 230px;
     height: 310px;
     border-radius: 4px;
+}
+
+body .background .bg2-container .carousel-wrapper .carousel-items-posts .carousel-item .text {
+    padding-left: 20px;
 }
 
 body .background .bg2-container .carousel-wrapper .carousel-items-posts .carousel-item .text h2 {
