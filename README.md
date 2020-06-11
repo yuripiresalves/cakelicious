@@ -8,6 +8,10 @@
 <p align="center">Projeto desenvolvido durante um workshop de HTML e CSS ofertado pelo <a target="_blank" href="https://www.din.uem.br/pet">PET INFORMÁTICA</a> da Universidade Estadual de Maringá.</p>
 
 <p align="center">
+  <a href="https://linkedin.com/in/yuripiresalves">
+    <img src="https://img.shields.io/badge/feito%20por-Yuri%20Alves-red" alt="License MIT">
+  </a>
+
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-red.svg" alt="License MIT">
   </a>
@@ -30,4 +34,4 @@
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/licenses/MIT) page for details.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
