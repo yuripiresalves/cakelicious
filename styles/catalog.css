@@ -53,6 +53,7 @@ body .background .bg2-container .catalog-content .catalog-title h2 {
 body .background .bg2-container .catalog-content .card-wrap {
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
     background-color: rgba(251, 173, 134, 0.4);
     padding: 20px 0;
     margin: 0 20px;

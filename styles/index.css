@@ -125,3 +125,13 @@ body .background .bg2-container .carousel-wrapper .carousel-items-posts .carouse
     text-align: justify;
 
 }
+
+@media (max-width: 1230px) {
+    body .background .bg2-container .carousel-wrapper .carousel-items-posts .carousel-item {
+        width: 600px;
+    }
+
+    body .background .bg2-container .carousel-wrapper .carousel-items-posts {
+        width: 608px;
+    }
+}
